@@ -1,2 +1,4 @@
-啦啦啦 
+﻿啦啦啦 
 这个一个git practice要用的提交文稿噢/
+
+i want to make a commit
